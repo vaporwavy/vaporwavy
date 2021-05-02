@@ -1,1 +1,1 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vaporwavy&show_icons=true&hide_title=ture&include_all_commits=ture&hide_border=ture&bg_color=0e1116&text_color=c9d1d9&icon_color=8b949e)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vaporwavy&show_icons=true&hide_title=ture&include_all_commits=ture&hide_border=ture&bg_color=0e1116&text_color=c9d1d9&icon_color=8b949e&title_color=58a6ff)
