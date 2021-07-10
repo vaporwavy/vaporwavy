@@ -1,1 +1,1 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vaporwavy&show_icons=true&hide_title=ture&include_all_commits=ture&hide_border=ture&bg_color=0e1116&text_color=c9d1d9&icon_color=8b949e&title_color=58a6ff)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vaporwavy&theme=darkhub&no-frame=true&column=3&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
