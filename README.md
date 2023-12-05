@@ -1,4 +1,4 @@
 ### Hi there, I'm Weensy!👋
 - 💡 Self-taught problem solver
-- 💻 Open-source developer
+- 💻 Open-source contributor
 - 💜 Keyboard lover
